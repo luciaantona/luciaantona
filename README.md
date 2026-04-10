@@ -11,5 +11,4 @@ Whatever information you want to include to your public profile.
 - What you hope to get from this course: A thousand tint sparks 
 
 ### Tradicional Profile 
-- ⚡ Fun fact: ...
--->
+
