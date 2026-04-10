@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi mundo 👋
 
-<!--
-**luciaantona/luciaantona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Cytometry in R - Starter Questions 
 
-Here are some ideas to get you started:
+Whatever information you want to include to your public profile. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- Favorite Fluorophore: Spark Blue 550
+
+- Previous coding experience: Calling IT
+
+- What you hope to get from this course: A thousand tint sparks 
+
+### Tradicional Profile 
 - ⚡ Fun fact: ...
 -->
